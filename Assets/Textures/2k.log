@@ -1,0 +1,59 @@
+./Akai/akai_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3479930B 0.000u 0:00.000
+./Akai/akai_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3065830B 0.000u 0:00.000
+./Claire/Girl01_FacialAnimMap.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 648504B 0.000u 0:00.001
+./Crypto/Ch45_1001_Diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 4.56656MiB 0.000u 0:00.000
+./Crypto/Ch45_1001_Emissive.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 39766B 0.000u 0:00.000
+./Crypto/Ch45_1001_Glossiness.png PNG 2048x2048 2048x2048+0+0 8-bit Gray 256c 1.98966MiB 0.000u 0:00.001
+./Crypto/Ch45_1001_Normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 7645700B 0.000u 0:00.000
+./Crypto/Ch45_1001_Specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 580388B 0.000u 0:00.000
+./Ganfaul Aure/Ganfaul_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 6.84473MiB 0.000u 0:00.001
+./Ganfaul Aure/Ganfaul_glow.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 224081B 0.000u 0:00.000
+./Ganfaul Aure/Ganfaul_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5.08979MiB 0.000u 0:00.000
+./Ganfaul Aure/Ganfaul_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.63707MiB 0.016u 0:00.000
+./Goblin/goblin_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5.87524MiB 0.000u 0:00.001
+./Goblin/goblin_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 6.13105MiB 0.000u 0:00.000
+./Goblin/goblin_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 4.78916MiB 0.000u 0:00.000
+./Heraklios a Dizon/battalion-leader-heraklios_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5385240B 0.000u 0:00.001
+./Heraklios a Dizon/battalion-leader-heraklios_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 4.74795MiB 0.000u 0:00.001
+./Heraklios a Dizon/battalion-leader-heraklios_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 1.56376MiB 0.000u 0:00.000
+./Kaya/OccupyGuy_FaceAnimMap.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 1.27475MiB 0.000u 0:00.001
+./Konstantinov/void_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.75861MiB 0.000u 0:00.000
+./Laygo/maria_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 4.39233MiB 0.000u 0:00.000
+./Laygo/MAW_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 6219120B 0.000u 0:00.000
+./Mutant Xenon/Mutant_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 7.6342MiB 0.000u 0:00.001
+./Mutant Xenon/Mutant_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 7.5178MiB 0.000u 0:00.001
+./Nightshade/Nightshade_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5.43885MiB 0.000u 0:00.000
+./Nightshade/Nightshade_glow.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 220015B 0.000u 0:00.000
+./Nightshade/Nightshade_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.45415MiB 0.000u 0:00.000
+./Nightshade/Nightshade_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5.4245MiB 0.000u 0:00.000
+./Pumpkin Hulk Shaw/pumpkinHulk_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 6.74592MiB 0.000u 0:00.000
+./Pumpkin Hulk Shaw/pumpkinHulk_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5.36726MiB 0.000u 0:00.001
+./Skeleton Zombie/skeletonZombie_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 4.84378MiB 0.016u 0:00.000
+./Skeleton Zombie/skeletonZombie_glow.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 27339B 0.000u 0:00.000
+./Skeleton Zombie/skeletonZombie_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.01146MiB 0.000u 0:00.000
+./Skeleton Zombie/skeletonZombie_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.82698MiB 0.000u 0:00.000
+./Sophie/Ch02_1002_Diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.74577MiB 0.000u 0:00.000
+./Sophie/Ch02_1002_Normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 2.16714MiB 0.000u 0:00.000
+./Sporty_Granny/FitnessGrandma_FaceAnimMap.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 696380B 0.000u 0:00.001
+./Survivor a Lusth/Survivor_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 5.07422MiB 0.000u 0:00.000
+./Survivor a Lusth/Survivor_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.79103MiB 0.000u 0:00.001
+./Survivor a Lusth/Survivor_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 4570070B 0.000u 0:00.000
+./Ty/Boy_Hair_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 542698B 0.000u 0:00.000
+./Ty/Boy_Hands_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 287752B 0.000u 0:00.000
+./Ty/Boy_LowerBody_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 713638B 0.000u 0:00.000
+./Ty/Boy_Scarf_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 759360B 0.000u 0:00.000
+./Ty/Boy_Shoes_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 744576B 0.000u 0:00.000
+./Ty/Boy_UpperBody_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 648464B 0.000u 0:00.000
+./Uriel/Uriel_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.74027MiB 0.000u 0:00.000
+./Uriel/Uriel_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 2.48267MiB 0.015u 0:00.001
+./Uriel/void_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.75861MiB 0.016u 0:00.001
+./Vampire a Lusth/Vampire_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.9913MiB 0.000u 0:00.000
+./Vampire a Lusth/Vampire_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.75597MiB 0.016u 0:00.000
+./Vampire a Lusth/Vampire_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 2.8929MiB 0.000u 0:00.000
+./Warrok Kurniawan/bear_alpha.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 51998B 0.000u 0:00.000
+./Warrok Kurniawan/bear_diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.91513MiB 0.000u 0:00.000
+./Warrok Kurniawan/bear_normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.84653MiB 0.000u 0:00.000
+./Warrok Kurniawan/bear_specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 2.84048MiB 0.000u 0:00.001
+./Wiezzorek Demon/Demon__diffuse.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3.75393MiB 0.000u 0:00.001
+./Wiezzorek Demon/Demon__normal.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 3393800B 0.000u 0:00.001
+./Wiezzorek Demon/Demon__specular.png PNG 2048x2048 2048x2048+0+0 8-bit sRGB 2408320B 0.000u 0:00.000
